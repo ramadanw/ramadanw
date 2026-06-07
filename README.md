@@ -1,6 +1,6 @@
 # Hi, I'm Wahyu 👋
 
-I'm a data analyst based in Indonesia. I work across the full analytics stack — from defining business questions and cleaning messy data to building predictive models and communicating results to stakeholders. My focus is turning data into decisions that actually move business metrics.
+I'm a data analyst based in Indonesia. I work across the full analytics stack - from defining business questions and cleaning messy data to building predictive models and communicating results to stakeholders. My focus is turning data into decisions that actually move business metrics.
 
 ## What I Work With
 
@@ -14,7 +14,7 @@ I'm a data analyst based in Indonesia. I work across the full analytics stack �
 
 ## Portfolio
 
-**[muaralab.com](https://muaralab.com)** — Six end-to-end industry case studies:
+**[muaralab.com](https://muaralab.com)** - Six end-to-end industry case studies:
 
 | Case Study | Business Question | Key Result |
 |---|---|---|
