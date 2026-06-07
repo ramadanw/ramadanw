@@ -14,7 +14,7 @@ I'm a data analyst based in Indonesia. I work across the full analytics stack - 
 
 ## Portfolio
 
-**[muaralab.com](https://muaralab.com)** - Six end-to-end industry case studies:
+**[muaralab.com](https://muaralab.com)** - Lots of end-to-end industry case studies:
 
 | Case Study | Business Question | Key Result |
 |---|---|---|
